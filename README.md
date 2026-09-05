@@ -1,41 +1,101 @@
-# 👋 Hi, I'm Aman Singh
+# Hi, I'm Aman Singh 👋
 
-🎯 Aspiring Cybersecurity Professional | SOC Analyst (Fresher)
+### QA Engineer | Software Tester | Automation Tester
 
----
+I'm a QA Engineer with experience in **Manual and Automation Testing**, focused on building reliable and maintainable test automation for web applications and APIs.
 
-## 🔐 About Me
-- 🔍 Learning Cybersecurity & Ethical Hacking
-- 💻 Practicing on HTB, TryHackMe, LetsDefend
-- 📊 Knowledge of SIEM & Incident Response
-- 🚀 Career goal: SOC Analyst / Blue Team
+### 🛠️ Tech Stack
 
----
+**Automation**
 
-## 🛠️ Skills
-- Networking (TCP/IP, DNS, Ports)
-- Linux & Windows Basics
-- Nmap, Wireshark,Splunk
-- SIEM (Log Analysis)
-- Incident Response Basics
+* Selenium WebDriver
+* Playwright
+* TestNG
+* Page Object Model
 
----
+**Programming**
 
-## 📚 Learning Platforms
-- Hack The Box
-- TryHackMe
-- LetsDefend
-- Coursera / Udemy
+* Java
+* TypeScript
+* JavaScript
 
----
+**API Testing**
 
-## 📂 Projects (Coming Soon)
-- Phishing Detection Lab
-- SIEM Log Analysis
-- Network Scanning
-- SOC Case Studies
+* Postman
+* REST API Testing
+* Rest Assured
 
----
+**Testing**
+
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* Integration Testing
+* API Testing
+* UI Testing
+* Test Case Design
+* Bug Reporting
+
+**Tools**
+
+* Git & GitHub
+* Jira
+* BrowserStack
+* IntelliJ IDEA
+* VS Code
+* Android Studio
+
+### 🚀 Featured Projects
+
+🔹 **Playwright + TypeScript E-Commerce Automation**
+
+* End-to-end UI automation
+* Page Object Model
+* Login, product, cart and checkout testing
+* API testing
+* HTML reports
+* CI/CD with GitHub Actions
+
+🔹 **Selenium + Java Automation Framework**
+
+* Selenium WebDriver
+* TestNG
+* Page Object Model
+* Reusable utilities
+* Explicit waits
+* Data-driven testing
+
+🔹 **REST API Automation**
+
+* Rest Assured + Java
+* CRUD API testing
+* Response validation
+* JSON validation
+* Authentication testing
+
+🔹 **Manual Testing Portfolio**
+
+* Test cases
+* Test scenarios
+* Bug reports
+* Test plan
+* Regression testing
+* RTM
+
+### 📊 What I'm Currently Learning
+
+* Advanced Java
+* Playwright with TypeScript
+* API Automation with Rest Assured
+* CI/CD
+* Advanced Test Automation Framework Design
+
+### 🎯 Career Goal
+
+Looking for opportunities as a **QA Engineer / Automation Test Engineer / SDET** where I can contribute to building high-quality and reliable software through effective testing and automation.
+
+### 📫 Connect With Me
+
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/aman-kumar-singh-778182230
