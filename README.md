@@ -38,6 +38,17 @@ I'm a data-focused professional with experience in software quality assurance, S
 - Visualize customer trends and segments.
 - Analyze customer-related KPIs to support retention insights.
 
+### 3. CSC Digital Services — SQL & Database Analysis
+**Tools:** SQL | Database Validation | Data Analysis
+
+- Used SQL queries and database records to validate user activity, login status, certificate-related activities, and payment transactions.
+- Queried and verified user records to investigate application behavior and identify data inconsistencies.
+- Validated application data against database records during end-to-end workflow testing.
+- Analyzed user-management data by searching, filtering, and deleting records as part of test-data validation.
+- Supported functional and regression testing of login, certificate, payment, and user-management workflows.
+
+**Key Skills Demonstrated:** SQL querying, data validation, database analysis, data integrity, and discrepancy investigation.
+
 ## 💼 Professional Background
 
 - **SDET — UPDOT:** Functional, API, regression, and data validation testing.
