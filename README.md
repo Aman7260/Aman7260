@@ -1,121 +1,55 @@
-# Hi, I'm Aman Singh 👋
+# Hi, I'm Aman Kumar Singh 👋
 
-### QA Engineer | Software Tester | Automation Tester
+### Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
-I'm a QA Engineer with experience in **Manual and Automation Testing**, focused on building reliable and maintainable test automation for web applications and APIs.
+I'm a data-focused professional with experience in software quality assurance, SQL-based data validation, and investigating data inconsistencies. I'm building my analytics portfolio around turning raw data into meaningful business insights.
 
-### 🛠️ Tech Stack
+- 📊 Interested in data analysis, business intelligence, and KPI reporting
+- 🧮 Working with SQL, Excel, Python, and Power BI
+- 🐍 Exploring data cleaning, exploratory data analysis (EDA), and customer analytics
+- 🤖 Interested in using GenAI to support analytical workflows and reporting
+- 🎯 Goal: Help businesses make better, data-driven decisions
 
-**Automation**
+## 🛠️ Technical Skills
 
-* Selenium WebDriver
-* Playwright
-* TestNG
-* Page Object Model
+- **SQL:** Joins, GROUP BY, aggregations, subqueries, CTEs, window functions
+- **Power BI:** Dashboards, DAX, Power Query, KPI visualization
+- **Excel:** Pivot Tables, XLOOKUP, INDEX-MATCH, SUMIFS, data cleaning
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **Analytics:** Data cleaning, EDA, data validation, trend analysis, business reporting
+- **Tools:** MySQL, MySQL Workbench, Git, GitHub, Jupyter Notebook
+- **GenAI:** Prompt engineering and AI-assisted SQL/Python exploration
 
-**Programming**
+## 📈 Featured Projects
 
-* Java
-* TypeScript
-* JavaScript
+### 1. E-Commerce Sales & Customer Analytics
+**Tools:** SQL | Excel | Power BI | GenAI
 
-**API Testing**
+- Analyze sales, customer, product, revenue, and profit data.
+- Use SQL queries to explore trends and business performance.
+- Prepare datasets and develop KPI dashboards.
+- Explore AI-assisted analytical questions and business reporting.
 
-* Postman
-* REST API Testing
-* Rest Assured
+### 2. Customer Churn Analysis
+**Tools:** Python | Pandas | SQL | Power BI
 
-**Testing**
+- Explore customer behavior and churn patterns.
+- Perform data cleaning and exploratory data analysis.
+- Visualize customer trends and segments.
+- Analyze customer-related KPIs to support retention insights.
 
-* Functional Testing
-* Regression Testing
-* Smoke Testing
-* Integration Testing
-* API Testing
-* UI Testing
-* Test Case Design
-* Bug Reporting
+## 💼 Professional Background
 
-**Tools**
+- **SDET — UPDOT:** Functional, API, regression, and data validation testing.
+- **Junior Software Tester — eMudhra Limited:** SQL/database validation, user activity checks, and investigation of data inconsistencies.
+- **Education:** B.Tech, Computer Engineering — Poornima College of Engineering.
 
-* Git & GitHub
-* Jira
-* BrowserStack
-* IntelliJ IDEA
-* VS Code
-* Android Studio
+## 🤝 Connect With Me
 
-### 🚀 Featured Projects
-
-🔹 **Playwright + TypeScript E-Commerce Automation**
-
-* End-to-end UI automation
-* Page Object Model
-* Login, product, cart and checkout testing
-* API testing
-* HTML reports
-* CI/CD with GitHub Actions
-
-🔹 **Selenium + Java Automation Framework**
-
-* Selenium WebDriver
-* TestNG
-* Page Object Model
-* Reusable utilities
-* Explicit waits
-* Data-driven testing
-
-🔹 **REST API Automation**
-
-* Rest Assured + Java
-* CRUD API testing
-* Response validation
-* JSON validation
-* Authentication testing
-
-🔹 **Manual Testing Portfolio**
-
-* Test cases
-* Test scenarios
-* Bug reports
-* Test plan
-* Regression testing
-* RTM
-
-### 📊 What I'm Currently Learning
-
-* Advanced Java
-* Playwright with TypeScript
-* API Automation with Rest Assured
-* CI/CD
-* Advanced Test Automation Framework Design
-
-### 🎯 Career Goal
-
-Looking for opportunities as a **QA Engineer / Automation Test Engineer / SDET** where I can contribute to building high-quality and reliable software through effective testing and automation.
-
-### 📫 Connect With Me
-
-
-## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/aman-kumar-singh-778182230
-- 📧 Email: amanmonu7260@gmail.com
+- LinkedIn: www.linkedin.com/in/aman-kumar-singh-778182230
+- Email: amanmonu7260@gmail.com
+- GitHub: https://github.com/Aman7260
 
 ---
 
-⭐ Always learning. Always improving.
-
-<!--
-**Aman7260/Aman7260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I believe good analysis starts with reliable data and ends with actionable insights.*
